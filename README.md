@@ -18,7 +18,7 @@ pip3 install -r requirements.txt
 
 Then paste the Bot Token in the Python Script.
 
-If you want to compile it into an .exe, run the `compiler.bat´ and the .exe will be created.
+If you want to compile it into an .exe, run the `compiler.bat` and the .exe will be created.
 
 Or else you cound just run 
 
@@ -28,6 +28,7 @@ pyinstaller --onefile --noconsole --copy-metadata imageio --copy-metadata imagei
 
 # Functions
 
+```bash
 .ss - take a screenshot
 .sc - record screen for 5 seconds
 .cmd <command> - run cmd commands
@@ -54,6 +55,7 @@ pyinstaller --onefile --noconsole --copy-metadata imageio --copy-metadata imagei
 .wc - take a picture with webcam
 .wcr - record webcam for 5 second
 .help - show these commands
+```
 
 # Warning
 
