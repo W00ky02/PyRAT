@@ -1,0 +1,11 @@
+discord.py
+mss
+imageio
+numpy
+Pillow
+pyautogui
+requests
+sounddevice
+scipy
+opencv-python
+pyaudio
