@@ -13,7 +13,7 @@ You will need a Discord Bot for this tool. Generate one on the Discord Develople
 First you need to install the requirements.
 
 ```bash
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 Then paste the Bot Token in the Python Script.
