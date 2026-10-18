@@ -1,0 +1,15 @@
+discord.py[voice]>=2.3
+PyNaCl>=1.5
+psutil>=5.9
+mss>=9.0
+numpy>=1.26
+Pillow>=10.0
+opencv-python>=4.9
+imageio>=2.34
+imageio-ffmpeg>=0.4.9
+pyautogui>=0.9.54
+pynput>=1.7.6
+pycryptodome>=3.20
+requests>=2.31
+pyaudio>=0.2.14
+pyinstaller>=6.3
